@@ -75,11 +75,11 @@ music:
   enable: true
   title: #非吸底模式有效
     enable: true
-    show: QQ音乐
+    show: 网易云音乐
   autoHide: true    # hide automaticaly
-  server: tencent   #require	music platform: netease, tencent, kugou, xiami, baidu
+  server: netease   #require	music platform: netease, tencent, kugou, xiami, baidu
   type: playlist    #require song, playlist, album, search, artist
-  id: 2081777815     #require	song id / playlist id / album id / search keyword
+  id: 2659692236     #require	song id / playlist id / album id / search keyword
   fixed: false       # 开启吸底模式
   autoplay: false   # 是否自动播放
   theme: '#42b983'
@@ -132,11 +132,11 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/Flowersea
-  email: baocong1214@vip.qq.com
+  github:  https://github.com/gamkeii
+  email: 1697061309@qq.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
-  qq: 550923384
+  qq: 1697061309
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
   rss: true # true、false
@@ -160,7 +160,7 @@ code:
 
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
-  enable: true
+  enable: false
   title: 你的赏识是我前进的动力
   wechat: /medias/reward/wechat.png
   alipay: /medias/reward/alipay.jpg
@@ -205,7 +205,7 @@ clicklove:
 profile:
   avatar: /medias/avatar.jpg
   career: 软件工程师
-  introduction: 呐，你想变成什么颜色？
+  introduction: 杀手皇后
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
@@ -514,8 +514,8 @@ subtitle:
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 呐，你想变成什么颜色？
-  sub2: いや、何色になりたいんだ？
+  sub1: 杀手皇后
+  sub2: killer queen
 
 # 手机二级菜单.
 navMenu:

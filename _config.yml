@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 花海
-subtitle: 花海
-description: 呐，你想变成什么颜色？
+title: kikiss
+subtitle: kikiss
+description: 杀手皇后
 keywords:
-author: 花海
+author: kikiss
 language: zh-CN
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://flowersea.github.io
+url: http://gamkeii.github.io
 root: /
 permalink: post/:title/
 permalink_defaults:
