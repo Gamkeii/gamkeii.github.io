@@ -5,9 +5,9 @@
   <subtitle>kikiss</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://flowersea.github.io/"/>
+  <link href="http://gamkeii.github.io/"/>
   <updated>2020-05-26T13:45:18.283Z</updated>
-  <id>http://flowersea.github.io/</id>
+  <id>http://gamkeii.github.io/</id>
   
   <author>
     <name>kikiss</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://flowersea.github.io/post/hello-world/"/>
-    <id>http://flowersea.github.io/post/hello-world/</id>
+    <link href="http://gamkeii.github.io/post/hello-world/"/>
+    <id>http://gamkeii.github.io/post/hello-world/</id>
     <published>2020-05-26T13:57:25.569Z</published>
     <updated>2020-05-26T13:45:18.283Z</updated>
     
@@ -36,10 +36,10 @@
     </summary>
     
     
-      <category term="Hello World" scheme="http://flowersea.github.io/categories/Hello-World/"/>
+      <category term="Hello World" scheme="http://gamkeii.github.io/categories/Hello-World/"/>
     
     
-      <category term="Hello World" scheme="http://flowersea.github.io/tags/Hello-World/"/>
+      <category term="Hello World" scheme="http://gamkeii.github.io/tags/Hello-World/"/>
     
   </entry>
   
